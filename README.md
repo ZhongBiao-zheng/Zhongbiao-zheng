@@ -1,3 +1,16 @@
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ZhongBiao-zheng&show_icons=true&icon_color=0366d6&bg_color=ffffff&theme=github_dark&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ZhongBiao-zheng&show_icons=true&icon_color=0366d6&bg_color=ffffff&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ZhongBiao-zheng&show_icons=true&icon_color=0366d6&bg_color=ffffff&include_all_commits=true&count_private=true"
+    align="right" />
+</picture>
+
+
 # Hey there, I'm SanQuan 👋
 
 **AI Indie Developer** — AI opened my eyes to a bigger world and led me to discover software development, a field I'm genuinely passionate about. Still exploring and learning every day.

@@ -1,5 +1,7 @@
 # Hey there, I'm SanQuan 👋
 
+**AI Indie Developer** — AI opened my eyes to a bigger world and led me to discover software development, a field I'm genuinely passionate about. Still exploring and learning every day.
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ZhongBiao-zheng&show_icons=true&icon_color=0366d6&bg_color=ffffff&theme=github_dark&include_all_commits=true&count_private=true"
@@ -11,10 +13,6 @@
     src="https://github-readme-stats.vercel.app/api?username=ZhongBiao-zheng&show_icons=true&icon_color=0366d6&bg_color=ffffff&include_all_commits=true&count_private=true"
     align="right" />
 </picture>
-
-<br clear="right"/>
-
-**AI Indie Developer** — AI opened my eyes to a bigger world and led me to discover software development, a field I'm genuinely passionate about. Still exploring and learning every day.
 
 🎭 **Co-creator of AI Spring Festival Gala 2025**
 

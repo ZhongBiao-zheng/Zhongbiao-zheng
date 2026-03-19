@@ -24,7 +24,7 @@
 
 - 🎨 **Diffusion LoRA Model Trainer** — Collaborated with Alibaba
 
-- 💡 **Aspiring to make a difference in the world**
+- 💡 **AI Product Explorer** — Passionate about discovering and evaluating cutting-edge AI tools
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhongBiao-zheng/ZhongBiao-zheng/output/pacman-contribution-graph-dark.svg">

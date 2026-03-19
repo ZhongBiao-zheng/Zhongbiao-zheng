@@ -25,3 +25,9 @@
 - 🎨 **Diffusion LoRA Model Trainer** — Collaborated with Alibaba
 
 - 💡 **Aspiring to make a difference in the world**
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhongBiao-zheng/ZhongBiao-zheng/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhongBiao-zheng/ZhongBiao-zheng/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZhongBiao-zheng/ZhongBiao-zheng/output/pacman-contribution-graph.svg">
+</picture>
